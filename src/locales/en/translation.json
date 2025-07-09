@@ -1,0 +1,65 @@
+{
+  "about": "About Me",
+  "skills": "Skills",
+  "projects": "Projects",
+  "contact": "Contact Me",
+  "resume": "Resume",
+  "certifications": "Certifications",
+  "portuguese": "Portuguese",
+  "english": "English",
+
+  "hero": {
+    "greeting": "Hello, I’m",
+    "title": "Tech student",
+    "location": "Based in Brazil.",
+    "description": "Passionate about backend development with Java and Spring Boot. Currently expanding into frontend with React. Always focused on writing clean, maintainable code and learning something new every day."
+  },
+  "about": {
+    "title": "About Me",
+    "description": "My name is Paulo Rodrigues, a student in System Analysis and Development in Brazil — a program similar to Computer Systems Technology degrees in the US and Canada. I began my journey in tech in 2023 through self-learning and started college in 2024. I'm passionate about backend development, particularly with Java and Spring Boot, and I'm currently learning React to grow as a full stack developer. I'm eager to keep learning, build meaningful projects, and I'm actively seeking an internship opportunity to launch my career in software development."
+  },
+
+  "projects": {
+    "title": "Projects",
+    "viewProject": "View Project",
+    "items": [
+      {
+        "title": "FrameFlix",
+        "description": "Streaming app with React and TypeScript.",
+        "tech": "React, TypeScript, Node.js",
+        "link": "https://github.com/SamuelERnandes/TechAcademy5"
+      },
+      {
+        "title": "TechAcademy 4",
+        "description": "Backend system for managing sneaker sales built with Spring Boot.",
+        "tech": "Java, Spring Boot, MySQL",
+        "link": "https://github.com/pauloffrr/TechAcademy4"
+      }
+    ]
+  },
+
+  "certifications": {
+    "key": "Certifications",
+    "verifyCertificate": "Verify Certificate",
+    "certificateId": "Certificate ID",
+    "certificates": {
+      "flisol": "FLISOL: Object-Oriented Programming with PHP",
+      "docker": "Putting my containers into production - Docker",
+      "python": "Algorithms with Python Course",
+      "java": "Algorithms with Java Course"
+    }
+  },
+
+  "contact": {
+    "title": "Contact Me",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sent": "Your message has been sent. Thank you!"
+  },
+
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

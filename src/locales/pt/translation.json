@@ -1,0 +1,65 @@
+{
+  "about": "Sobre Mim",
+  "skills": "Habilidades",
+  "projects": "Projetos",
+  "contact": "Contato",
+  "resume": "Currículo",
+  "certifications": "Certificações",
+  "portuguese": "Português",
+  "english": "Inglês",
+
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "title": "Estudante de tecnologia",
+    "location": "Residindo no Brasil.",
+    "description": "Apaixonado por desenvolvimento backend com Java e Spring Boot. Atualmente explorando o frontend com React. Sempre focado em escrever código limpo, sustentável e aprender algo novo todos os dias."
+  },
+
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Meu nome é Paulo Rodrigues, sou estudante de Análise e Desenvolvimento de Sistemas no Brasil — um curso semelhante ao de Tecnologia em Sistemas de Computação nos EUA e Canadá. Comecei minha jornada em tecnologia em 2023 por conta própria e iniciei a faculdade em 2024. Sou apaixonado por desenvolvimento backend, especialmente com Java e Spring Boot, e atualmente estou aprendendo React para me tornar um desenvolvedor full stack. Estou sempre em busca de aprendizado, de construir projetos significativos e atualmente procuro uma oportunidade de estágio para iniciar minha carreira em desenvolvimento de software."
+  },
+
+  "projects": {
+    "title": "Projetos",
+    "viewProject": "Ver Projeto",
+    "items": [
+      {
+        "title": "FrameFlix",
+        "description": "Aplicativo de streaming com React e TypeScript.",
+        "tech": "React, TypeScript, Node.js",
+        "link": "https://github.com/SamuelERnandes/TechAcademy5"
+      },
+      {
+        "title": "TechAcademy 4",
+        "description": "Sistema backend para gerenciamento de vendas de tênis, desenvolvido com Spring Boot.",
+        "tech": "Java, Spring Boot, MySQL",
+        "link": "https://github.com/pauloffrr/TechAcademy4"
+      }
+    ]
+  },
+  "certifications": {
+    "key": "Certificações",
+    "verifyCertificate": "Verificar Certificado",
+    "certificateId": "ID do Certificado",
+    "certificates": {
+      "flisol": "FLISOL: Programação Orientada a Objetos com PHP",
+      "docker": "Colocando meus containers em produção - Docker",
+      "python": "Curso de Algoritmos com Python",
+      "java": "Curso de Algoritmos com Java"
+    }
+  },
+
+  "contact": {
+    "title": "Contato",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem",
+    "sent": "Sua mensagem foi enviada. Obrigado!"
+  },
+
+  "footer": {
+    "rights": "Todos os direitos reservados"
+  }
+}
