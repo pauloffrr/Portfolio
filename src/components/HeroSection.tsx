@@ -31,7 +31,7 @@ function HeroSection() {
 
       <div className="relative aspect-square w-full max-w-xl justify-self-end overflow-hidden rounded-full border-8 border-zinc-800">
         <img
-          src="/public/images/me.jpeg"
+          src="/images/me.jpeg"
           alt="Profile"
           className="h-full w-full object-cover"
         />

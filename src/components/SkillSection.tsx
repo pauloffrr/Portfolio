@@ -10,7 +10,7 @@ function SkillSection() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
         {/* React */}
         <div className="border border-gray-600 rounded-lg h-40 flex items-center justify-center hover:bg-white hover:text-black transition">
-          <img src="/public/React-icon.svg" alt="React" className="h-12" />
+          <img src="/React-icon.svg" alt="React" className="h-12" />
         </div>
 
         {/* Java */}
